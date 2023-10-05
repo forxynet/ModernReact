@@ -1,40 +1,12 @@
 {
   "users": [
     {
-      "name": "Elmer Thompson PhD",
+      "name": "Amy Walker",
       "id": 1
     },
     {
-      "name": "Saul Becker",
+      "name": "Lynne Daniel",
       "id": 2
-    },
-    {
-      "name": "Brandy Schmitt",
-      "id": 3
-    },
-    {
-      "name": "Barbara Kunze",
-      "id": 4
-    },
-    {
-      "name": "Claudia Goodwin",
-      "id": 5
-    },
-    {
-      "name": "Guillermo Kautzer",
-      "id": 6
-    },
-    {
-      "name": "Leonard Davis",
-      "id": 7
-    },
-    {
-      "name": "Maggie Moore",
-      "id": 8
-    },
-    {
-      "name": "Darren Gislason",
-      "id": 9
     }
   ],
   "albums": [],

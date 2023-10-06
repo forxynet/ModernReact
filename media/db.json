@@ -1,40 +1,24 @@
 {
   "users": [
     {
-      "name": "Amy Walker",
+      "name": "Marshall Armstrong-Denesik",
       "id": 1
     },
     {
-      "name": "Lynne Daniel",
+      "name": "Meghan Ondricka",
       "id": 2
     },
     {
-      "name": "Mr. Jim Bogisich",
+      "name": "Mr. Juan Ziemann",
       "id": 3
     },
     {
-      "name": "Claude Doyle",
+      "name": "Tom Cole",
       "id": 4
     },
     {
-      "name": "Delia Keeling",
+      "name": "Tommy Kerluke III",
       "id": 5
-    },
-    {
-      "name": "Suzanne Spencer",
-      "id": 6
-    },
-    {
-      "name": "Andrea Tromp",
-      "id": 7
-    },
-    {
-      "name": "Vivian Sauer",
-      "id": 8
-    },
-    {
-      "name": "Meredith Graham",
-      "id": 9
     }
   ],
   "albums": [],

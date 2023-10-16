@@ -21,6 +21,67 @@
       "id": 5
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "UserId": 1
+    },
+    {
+      "userId": 1,
+      "title": "Tasty Rubber Shirt",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "title": "Rustic Fresh Shirt",
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "title": "Sleek Plastic Fish",
+      "id": 13
+    },
+    {
+      "userId": 1,
+      "title": "Recycled Concrete Pizza",
+      "id": 14
+    },
+    {
+      "userId": 1,
+      "title": "Elegant Steel Tuna",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "title": "Ergonomic Plastic Tuna",
+      "id": 16
+    },
+    {
+      "userId": 2,
+      "title": "Elegant Fresh Pants",
+      "id": 17
+    },
+    {
+      "userId": 2,
+      "title": "Oriental Bronze Computer",
+      "id": 18
+    },
+    {
+      "userId": 2,
+      "title": "Elegant Metal Gloves",
+      "id": 19
+    },
+    {
+      "userId": 1,
+      "title": "Refined Cotton Shoes",
+      "id": 20
+    },
+    {
+      "userId": 1,
+      "title": "Ergonomic Concrete Keyboard",
+      "id": 21
+    }
+  ],
   "photos": []
 }

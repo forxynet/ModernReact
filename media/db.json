@@ -1,87 +1,79 @@
 {
   "users": [
     {
-      "name": "Marshall Armstrong-Denesik",
-      "id": 1
-    },
-    {
-      "name": "Meghan Ondricka",
-      "id": 2
-    },
-    {
-      "name": "Mr. Juan Ziemann",
+      "name": "Elsie Price",
       "id": 3
     },
     {
-      "name": "Tom Cole",
-      "id": 4
+      "name": "Shawna Lynch",
+      "id": 5
     },
     {
-      "name": "Robin Ernser",
-      "id": 5
+      "name": "Henry Hills",
+      "id": 6
+    },
+    {
+      "name": "Clifton Sanford",
+      "id": 7
     }
   ],
   "albums": [
     {
-      "id": 10,
-      "title": "Hiking Trip",
-      "UserId": 1
+      "userId": 3,
+      "title": "Licensed Concrete Car",
+      "id": 8
     },
     {
-      "userId": 1,
-      "title": "Tasty Rubber Shirt",
+      "userId": 3,
+      "title": "Gorgeous Frozen Shirt",
+      "id": 10
+    },
+    {
+      "userId": 3,
+      "title": "Electronic Bronze Gloves",
       "id": 11
     },
     {
-      "userId": 1,
-      "title": "Rustic Fresh Shirt",
+      "userId": 3,
+      "title": "Intelligent Plastic Cheese",
       "id": 12
     },
     {
-      "userId": 1,
-      "title": "Sleek Plastic Fish",
+      "userId": 3,
+      "title": "Gorgeous Soft Soap",
       "id": 13
     },
     {
-      "userId": 1,
-      "title": "Recycled Concrete Pizza",
+      "userId": 3,
+      "title": "Rustic Soft Soap",
       "id": 14
-    },
-    {
-      "userId": 1,
-      "title": "Elegant Steel Tuna",
-      "id": 15
-    },
-    {
-      "userId": 1,
-      "title": "Ergonomic Plastic Tuna",
-      "id": 16
-    },
-    {
-      "userId": 2,
-      "title": "Elegant Fresh Pants",
-      "id": 17
-    },
-    {
-      "userId": 2,
-      "title": "Oriental Bronze Computer",
-      "id": 18
-    },
-    {
-      "userId": 2,
-      "title": "Elegant Metal Gloves",
-      "id": 19
-    },
-    {
-      "userId": 1,
-      "title": "Refined Cotton Shoes",
-      "id": 20
-    },
-    {
-      "userId": 1,
-      "title": "Ergonomic Concrete Keyboard",
-      "id": 21
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "albumId": 8,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2211226541096960",
+      "id": 1
+    },
+    {
+      "albumId": 8,
+      "url": "https://loremflickr.com/150/150/abstract?lock=8015465265758208",
+      "id": 2
+    },
+    {
+      "albumId": 8,
+      "url": "https://loremflickr.com/150/150/abstract?lock=8843872369115136",
+      "id": 3
+    },
+    {
+      "albumId": 8,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5769215954911232",
+      "id": 4
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5425295936978944",
+      "id": 5
+    }
+  ]
 }

@@ -51,16 +51,6 @@
   ],
   "photos": [
     {
-      "albumId": 8,
-      "url": "https://loremflickr.com/150/150/abstract?lock=2211226541096960",
-      "id": 1
-    },
-    {
-      "albumId": 8,
-      "url": "https://loremflickr.com/150/150/abstract?lock=8843872369115136",
-      "id": 3
-    },
-    {
       "albumId": 10,
       "url": "https://loremflickr.com/150/150/abstract?lock=5425295936978944",
       "id": 5
@@ -89,11 +79,6 @@
       "albumId": 8,
       "url": "https://loremflickr.com/150/150/abstract?lock=523073967095808",
       "id": 10
-    },
-    {
-      "albumId": 8,
-      "url": "https://loremflickr.com/150/150/abstract?lock=2390347353161728",
-      "id": 11
     },
     {
       "albumId": 8,
